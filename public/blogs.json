@@ -1,0 +1,52 @@
+[
+ {
+     "id": "001",
+     "cover": "cover_image_001.jpg",
+     "title": "Mysteries of the Deep Sea",
+     "author": "Ava Green",
+     "author_img": "ava_green_img.jpg",
+     "posted_date": "2024-03-12",
+     "reading_time": "12 min",
+     "hashtags": ["#ocean", "#mystery", "#exploration"]
+ },
+ {
+     "id": "002",
+     "cover": "cover_image_002.jpg",
+     "title": "The Rise of Electric Vehicles",
+     "author": "Liam Brown",
+     "author_img": "liam_brown_img.jpg",
+     "posted_date": "2024-05-23",
+     "reading_time": "9 min",
+     "hashtags": ["#technology", "#electricvehicles", "#innovation"]
+ },
+ {
+     "id": "003",
+     "cover": "cover_image_003.jpg",
+     "title": "Sustainable Living Tips",
+     "author": "Sophia White",
+     "author_img": "sophia_white_img.jpg",
+     "posted_date": "2024-02-14",
+     "reading_time": "7 min",
+     "hashtags": ["#sustainability", "#eco-friendly", "#lifestyle"]
+ },
+ {
+     "id": "004",
+     "cover": "cover_image_004.jpg",
+     "title": "A Journey Through Ancient History",
+     "author": "Noah Johnson",
+     "author_img": "noah_johnson_img.jpg",
+     "posted_date": "2024-04-30",
+     "reading_time": "15 min",
+     "hashtags": ["#history", "#ancient", "#education"]
+ },
+ {
+     "id": "005",
+     "cover": "cover_image_005.jpg",
+     "title": "The Future of Space Exploration",
+     "author": "Emma Davis",
+     "author_img": "emma_davis_img.jpg",
+     "posted_date": "2024-06-07",
+     "reading_time": "11 min",
+     "hashtags": ["#space", "#exploration", "#science"]
+ }
+]
